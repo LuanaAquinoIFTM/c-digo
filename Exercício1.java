@@ -1,4 +1,4 @@
-public class Numero{
+public class Exercício1{
     public static void main (String[] args){
         int x = 10;
         System.out.println("O número é: " + x);
