@@ -1,4 +1,4 @@
-public class Soma {
+public class Exercício2 {
     public static void main (String[] args){
         int numero1 = -8;
         System.out.println("O primeiro número é: " + numero1);

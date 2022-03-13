@@ -1,4 +1,4 @@
-public class AnoNascimento {
+public class Exercício3 {
     public static void main (String[] args){
         int idade = 17;
         System.out.println("A idade é: " + idade);

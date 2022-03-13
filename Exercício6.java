@@ -1,4 +1,4 @@
-public class Graus {
+public class Exercício6 {
     public static void main (String[] args){
         float C = 20;
         

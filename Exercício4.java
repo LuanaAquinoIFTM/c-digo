@@ -1,4 +1,4 @@
-public class Velocidade {
+public class Exercício4 {
     public static void main (String[] args){
         float K = 170;
         System.out.println("A velocidade é: " + K + " Km/h");
